@@ -1,18 +1,5 @@
----
-title: "Cyclistic Case Study"
-author: "Vincent Liu"
-date: "Summer 2023"
-output:
-  html_document: default
-  pdf_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
-## Data Cleaning in RStudio
+## Cyclistic Case Study: Data Cleaning in RStudio
+# Vincent Liu
 
 This is documentation to describe the data cleaning process for the Cyclistic Bike Case Study as a part of the Google Data Analytics Certificate. 
 
