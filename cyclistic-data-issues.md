@@ -1,11 +1,11 @@
 
 
-#Cyclistic Case Study:Data Issues in SQL
-###Vincent Liu
+# Cyclistic Case Study:Data Issues in SQL
+### Vincent Liu
 
 This is documentation to describe data issues that I noticed from the [Cyclistic public data](https://divvy-tripdata.s3.amazonaws.com/index.html) in SQL.
 
-##Data Issues
+## Data Issues
 
 1. Some rows have empty *start_station_id*.
 
