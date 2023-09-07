@@ -1,4 +1,4 @@
-# Cyclistic Cae Study: Data Processing and Cleaning
+# Cyclistic Case Study: Data Processing and Cleaning
 
 This README document provides an overview of the data processing and cleaning steps undertaken as part of the Cyclistic Case Study for my Google Professional Data Analytics certificate. The analysis aims to answer key business questions related to how annual members and casual riders use Cyclistic bikes differently and how to convert casual riders into annual members through data-driven insights.
 
