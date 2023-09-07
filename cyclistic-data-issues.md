@@ -1,6 +1,6 @@
 
 
-# Cyclistic Case Study:Data Issues in SQL
+# Cyclistic Case Study: Data Issues in SQL
 ### Vincent Liu
 
 This is documentation to describe data issues that I noticed from the [Cyclistic public data](https://divvy-tripdata.s3.amazonaws.com/index.html) in SQL.
